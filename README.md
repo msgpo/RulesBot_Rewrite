@@ -50,10 +50,11 @@ _You can also visit our [website][wiki]._
 
 ## Release History
 <img src="https://img.shields.io/badge/Version-3.1-green.svg" alt="version">
-* v3
-    + complete rewrite in java
+
+* v3.0
+    + Complete rewrite in Java
 * v2.2
-    + NEW: ticket system (create_ticket)
+    + NEW: added ticket system (create_ticket)
     + NEW: premium (premium)
     + NEW: added ping to statuspage (status.thebotdev.de)
     + NEW: remove a role on setup (available now)
@@ -68,7 +69,7 @@ _You can also visit our [website][wiki]._
     * CHANGE: time out time now 120 sec.
     * CHANGE: better join message
     
-* v2
+* v2.0
     * NEW: emojis under a message to get a role
     * NEW: recovery command (-restore)
     * NEW: this README
